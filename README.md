@@ -39,9 +39,9 @@ Conformal Quantile Regression uses the quantile regression forests [2] as the qu
 
 The `plot_results.py` file is used to plot the results presented in the main text and appendix of the paper. This file takes the output of the `main.py` file as input and generates the plots.
 
-## Experiments with Overlap
+## Experiments with GNN for Subsets with Overlaps
 
-The folder `overlap` contains code and data for experiments for subsets with overlaps, specifically the road traffic in Anaheim and Chicago. Run `main_overlap.py` to run the experiments.
+The folder `gnn` contains code and data for experiments for subsets with overlaps, specifically the road traffic in Anaheim and Chicago. Run `main_gnn.py` to run the experiments.
 
 ### Directed Graph Autoencoder
 
