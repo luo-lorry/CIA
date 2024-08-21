@@ -1,5 +1,5 @@
 # CIA
-This repo contains code implementation for Conformalized Interval Arithmetic (CIA), which extends Conformal Prediction's coverage guarantees to the arithmetic operations of variables, such as summation.
+This repo contains code implementation for [Conformalized Interval Arithmetic (CIA)](https://arxiv.org/abs/2408.10939), which extends Conformal Prediction's coverage guarantees to the arithmetic operations of variables, such as summation.
 
 ## Introduction
 
@@ -85,3 +85,5 @@ We thank the following GitHub repositories for their code:
 [1] [**Conformal Quantile Regression**](https://proceedings.neurips.cc/paper_files/paper/2019/file/5103c3584b063c431bd1268e9b5e76fb-Paper.pdf) 
 
 [2] [**Quantile Regression Forests**](http://www.jmlr.org/papers/volume7/meinshausen06a/meinshausen06a.pdf)
+
+[3] [**Conformalized Interval Arithmetic with Symmetric Calibration**](https://arxiv.org/abs/2408.10939)
